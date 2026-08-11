@@ -1,6 +1,5 @@
-# HadoopSalesAnalytics
-Hadoop-based sales analytics project using HDFS, YARN, and MapReduce to analyze sales trends, regional performance, product categories, and sales channels.
 # Hadoop-Based Sales Analytics for Business Performance Analysis
+Hadoop-based sales analytics project using HDFS, YARN, and MapReduce to analyze sales trends, regional performance, product categories, and sales channels.
 
 ## Overview
 This project demonstrates a Hadoop-based Big Data solution for analyzing sales transactions using HDFS, YARN, and MapReduce.
